@@ -97,7 +97,7 @@ web_input.grid(row=1, column=1, columnspan=2)
 web_input.focus()
 email_input = tkinter.Entry(width=40)
 email_input.grid(row=2, column=1, columnspan=2)
-email_input.insert(0, "20circle13@gmail.com")
+email_input.insert(0, "aaa@gmail.com")
 password_entry = tkinter.Entry(width=25)
 password_entry.grid(row=3, column=1)
 # buttons
